@@ -1,0 +1,103 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+font-family: sans-serif;
+}
+.navbar-nav{
+margin-left: auto;
+}
+#nav-bar
+{
+position: sticky;
+top: 0;
+z-index: 10;
+}
+.navbar{
+background-image: linear-gradient(to right, #a517ba, #5f1782);
+padding: 0 !important;
+}
+.navbar-brand{
+height: 60px;
+padding-left: 20px;
+}
+.navbar-brand h2{
+padding-top: 5px;
+font-weight: 800;
+color: #fff;
+font-family: cursive;
+}
+.navbar-nav li{
+padding: 0 10;
+}
+.navbar-nav li a{
+color: #fff !important;
+font-weight: 600;
+float: right;
+text-align: left;
+}
+.navbar-toggler{
+outline: none !important;
+}
+/*-----------banner section---------*/
+
+#banner
+{
+ color: #fff;
+ padding-top: 5%;
+ color: #000000;
+}
+.promo-title1{
+font-size: 40px;
+font-weight: 700;
+margin-top: 150px;
+color: #000000;
+}
+.promo-title2{
+font-size: 20px;
+font-weight: 500;
+margin-top: 20px;
+}
+/*---------------------service section-------------*/
+
+#services
+{
+padding: 80px 0;
+}
+.service-img1{
+width: 200px;
+margin-top: 25px;
+}
+.service-img2{
+width: 240px;
+margin-top: 25px;
+}
+.service-img3{
+width: 185px;
+margin-top: 1px;
+}
+.services{
+padding: 20px;
+}
+#services .btn{
+box-shadow: none;
+padding: 8px 25px;
+border: none;
+border-radius: 20px;
+background-image: linear-gradient(to right, #a517ba, #5f1782);
+color: #fff !important
+}
+/*-------------------footer section---------*/
+
+#footer
+{
+background-image: linear-gradient(to right, #a517ba, #5f1782);
+color: #fff;
+}
+hr{
+background-color: #fff;
+}
+
+
+

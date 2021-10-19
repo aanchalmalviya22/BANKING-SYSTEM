@@ -1,0 +1,51 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+font-family: sans-serif;
+}
+.navbar-nav{
+margin-left: auto;
+}
+#nav-bar
+{
+position: sticky;
+top: 0;
+z-index: 10;
+}
+.navbar{
+background-image: linear-gradient(to right, #a517ba, #5f1782);
+padding: 0 !important;
+}
+.navbar-brand{
+height: 60px;
+padding-left: 20px;
+}
+.navbar-brand h2{
+padding-top: 5px;
+font-weight: 800;
+color: #fff;
+font-family: cursive;
+}
+.navbar-nav li{
+padding: 0 10;
+}
+.navbar-nav li a{
+color: #fff !important;
+font-weight: 600;
+float: right;
+text-align: left;
+}
+.navbar-toggler{
+outline: none !important;
+}
+
+/*-------------------------table----------------*/
+
+.container{
+font-family: sans-serif;
+}
+.container h2{
+font-weight: 600;
+}
